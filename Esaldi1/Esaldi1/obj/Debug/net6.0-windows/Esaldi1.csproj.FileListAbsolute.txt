@@ -1,0 +1,17 @@
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\bin\Debug\net6.0-windows\Esaldi1.exe
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\bin\Debug\net6.0-windows\Esaldi1.deps.json
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\bin\Debug\net6.0-windows\Esaldi1.runtimeconfig.json
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\bin\Debug\net6.0-windows\Esaldi1.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\bin\Debug\net6.0-windows\Esaldi1.pdb
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.csproj.AssemblyReference.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.Form1.resources
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.csproj.GenerateResource.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.AssemblyInfoInputs.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.AssemblyInfo.cs
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.csproj.CoreCompileInputs.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\refint\Esaldi1.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.pdb
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\Esaldi1.genruntimeconfig.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Esaldi1\Esaldi1\obj\Debug\net6.0-windows\ref\Esaldi1.dll
