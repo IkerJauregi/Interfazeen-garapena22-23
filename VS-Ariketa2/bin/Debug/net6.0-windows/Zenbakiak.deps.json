@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zenbakiak/1.0.0": {
+        "runtime": {
+          "Zenbakiak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zenbakiak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

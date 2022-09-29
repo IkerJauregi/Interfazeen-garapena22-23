@@ -1,0 +1,17 @@
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\bin\Debug\net6.0-windows\Zenbakiak.exe
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\bin\Debug\net6.0-windows\Zenbakiak.deps.json
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\bin\Debug\net6.0-windows\Zenbakiak.runtimeconfig.json
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\bin\Debug\net6.0-windows\Zenbakiak.dll
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\bin\Debug\net6.0-windows\Zenbakiak.pdb
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.csproj.AssemblyReference.cache
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.Form1.resources
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.csproj.GenerateResource.cache
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.AssemblyInfoInputs.cache
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.AssemblyInfo.cs
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.csproj.CoreCompileInputs.cache
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.dll
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\refint\Zenbakiak.dll
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.pdb
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\Zenbakiak.genruntimeconfig.cache
+C:\Users\ikerj\Desktop\DAM2\VS-Ariketa2\obj\Debug\net6.0-windows\ref\Zenbakiak.dll
