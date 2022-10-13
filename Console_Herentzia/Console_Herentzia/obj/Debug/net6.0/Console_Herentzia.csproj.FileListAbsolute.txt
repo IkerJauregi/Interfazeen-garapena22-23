@@ -1,0 +1,15 @@
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.exe
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.deps.json
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.runtimeconfig.json
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\bin\Debug\net6.0\Console_Herentzia.pdb
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.csproj.AssemblyReference.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.AssemblyInfoInputs.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.AssemblyInfo.cs
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.csproj.CoreCompileInputs.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\refint\Console_Herentzia.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.pdb
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\Console_Herentzia.genruntimeconfig.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_Herentzia\Console_Herentzia\obj\Debug\net6.0\ref\Console_Herentzia.dll

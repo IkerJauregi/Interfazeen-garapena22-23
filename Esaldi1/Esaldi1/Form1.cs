@@ -1,12 +1,30 @@
+
+using EsaldiaLotzeko;
+
 namespace Esaldi1
 {
     public partial class Form1 : Form
     {
+        Esaldia esaldia = new Esaldia();
         public Form1()
         {
             InitializeComponent();
         }
-
+        private bool Balidatu(Button botoi1, Button botoi2)
+        {
+            if(textBox1.Text != "")
+            {
+                botoi1.Enabled = false;
+                botoi2.Enabled = true;
+                esaldia.Zatia = textBox1.Text;
+                textBox1.Focus();
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
         private void esaldi1_Click(object sender, EventArgs e)
         {
             esaldi1.Enabled = false;
@@ -44,12 +62,16 @@ namespace Esaldi1
 
         private void garbitu_Click(object sender, EventArgs e)
         {
-
+            textBox1.Enabled = true;
+            esaldi1.Enabled = true;
+            lotu.Enabled = false;
+            textBox1.Focus();
+            esaldia.EsaldiaBatuta = "";
         }
 
         private void irten_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
     }
 }

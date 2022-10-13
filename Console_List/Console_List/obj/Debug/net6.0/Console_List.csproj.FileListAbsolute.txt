@@ -1,0 +1,15 @@
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\bin\Debug\net6.0\Console_List.exe
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\bin\Debug\net6.0\Console_List.deps.json
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\bin\Debug\net6.0\Console_List.runtimeconfig.json
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\bin\Debug\net6.0\Console_List.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\bin\Debug\net6.0\Console_List.pdb
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.csproj.AssemblyReference.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.AssemblyInfoInputs.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.AssemblyInfo.cs
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.csproj.CoreCompileInputs.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\refint\Console_List.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.pdb
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\Console_List.genruntimeconfig.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Console_List\Console_List\obj\Debug\net6.0\ref\Console_List.dll

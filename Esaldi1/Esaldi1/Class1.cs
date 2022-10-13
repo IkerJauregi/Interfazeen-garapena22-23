@@ -4,17 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EsaldiaLotu
+namespace EsaldiaLotzeko
 {
-    internal class EsaldiaLotu
+    internal class Esaldia
     {
-        public String Testua { get; }
-        public String EsaldiaBatuta = "";
-
-        public Esaldia()
+        private string esaldiaBatuta;
+        public string Zatia { get; set; }
+        public string EsaldiaBatuta
         {
-            return = EsaldiaBatuta;
+            get { return esaldiaBatuta; }
         }
 
+        public void Batu()
+        {
+           esaldiaBatuta += "" + Zatia;
+        }
     }
 }
+  

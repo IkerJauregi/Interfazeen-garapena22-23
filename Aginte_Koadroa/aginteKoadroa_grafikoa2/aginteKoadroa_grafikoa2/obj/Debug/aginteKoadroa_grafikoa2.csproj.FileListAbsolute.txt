@@ -1,0 +1,8 @@
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\bin\Debug\aginteKoadroa_grafikoa2.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\bin\Debug\aginteKoadroa_grafikoa2.pdb
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\obj\Debug\aginteKoadroa_grafikoa2.csproj.AssemblyReference.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\obj\Debug\aginteKoadroa_grafikoa2.UserControl1.resources
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\obj\Debug\aginteKoadroa_grafikoa2.csproj.GenerateResource.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\obj\Debug\aginteKoadroa_grafikoa2.csproj.CoreCompileInputs.cache
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\obj\Debug\aginteKoadroa_grafikoa2.dll
+C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\Aginte_Koadroa\aginteKoadroa_grafikoa2\aginteKoadroa_grafikoa2\obj\Debug\aginteKoadroa_grafikoa2.pdb
