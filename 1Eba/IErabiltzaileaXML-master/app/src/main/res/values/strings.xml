@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IErabiltzaileaXML</string>
+    <string name="bai_eu">Bai</string>
+    <string name="ez_eu">Ez</string>
+    <string name="bai_en">Yes</string>
+    <string name="ez_en">No</string>
+</resources>

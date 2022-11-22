@@ -1,8 +1,0 @@
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\bin\Debug\kaixoDLL.dll
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\bin\Debug\kaixoDLL.pdb
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\obj\Debug\kaixoDLL.csproj.AssemblyReference.cache
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\obj\Debug\kaixoDLL.Kaixo.resources
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\obj\Debug\kaixoDLL.csproj.GenerateResource.cache
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\obj\Debug\kaixoDLL.csproj.CoreCompileInputs.cache
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\obj\Debug\kaixoDLL.dll
-C:\Users\jauregi.iker\Documents\Interfaces\VisualCommunity\AriketaBasikoak\Interfazeen-garapena22-23\kaixoDLL\kaixoDLL\obj\Debug\kaixoDLL.pdb

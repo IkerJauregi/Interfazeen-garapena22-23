@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firtsAppFigma.iml" filepath="$PROJECT_DIR$/.idea/modules/firtsAppFigma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/firtsAppFigma.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
