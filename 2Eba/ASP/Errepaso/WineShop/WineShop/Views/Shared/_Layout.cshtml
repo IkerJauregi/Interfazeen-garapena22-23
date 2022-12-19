@@ -11,24 +11,6 @@
 </head>
 <body>
     <header>
-        <div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <img src="~/images/ardoa.jpg" />
-                    </div>
-                    <div class="col-md-6">
-                        <form class="form-inline my-2 my-lg-0 float-right" id="searchForm">
-                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                            <button class="btn btn-outline-danger my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <main role="main" class="pb-3">
-                @RenderBody()
-            </main>
-        </div>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WineShop</a>
@@ -50,6 +32,24 @@
             </div>
         </nav>
     </header>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="~/images/ardoa.jpg" />
+                </div>
+                <div class="col-md-6">
+                    <form class="form-inline my-2 my-lg-0 float-right" id="searchForm">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-danger my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()

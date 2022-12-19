@@ -1,18 +1,71 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
+
+#searchForm {
+    padding-top: 10%;
+}
+
+.bg-menua {
+    background-color: #dddada !important;
+}
+
+.erlatiboa {
+    position: relative;
+}
+
+.full-width.dropdown {
+    position: static;
+}
+
+.full-width.dropdown > .dropdown-menu {
+    left: 0;
+}
+
+.full-width.dropdown > .dropdown-menu > li > a {
+     white-space: normal;
+}
+
+@media screen and (min-width:480px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+    }
+}
+
+.padinaMenu {
+    padding: 15px;
+}
+
+.borgona {
+    color: #981212;
+}
+
+.nireMenua .active a,
+.nireMenua .active a:hover {
+    background-color: #981212;
+}
+
+.nireMenua > a {
+    color: #777;
+    text-decoration: none;
+}
+
+    .nireMenua > a:hover {
+        color: #981212;
+    }
