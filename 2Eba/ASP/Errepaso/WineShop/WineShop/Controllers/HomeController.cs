@@ -11,7 +11,7 @@ namespace WineShop.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IArdoaService _ardoaService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IArdoaService ardoaService)
         {
             _logger = logger;
             _ardoaService = ardoaService;

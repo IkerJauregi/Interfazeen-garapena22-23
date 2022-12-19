@@ -33,13 +33,13 @@ body {
     position: static;
 }
 
-.full-width.dropdown > .dropdown-menu {
-    left: 0;
-}
+    .full-width.dropdown > .dropdown-menu {
+        left: 0;
+    }
 
-.full-width.dropdown > .dropdown-menu > li > a {
-     white-space: normal;
-}
+        .full-width.dropdown > .dropdown-menu > li > a {
+            white-space: normal;
+        }
 
 @media screen and (min-width:480px) {
     .dropdown:hover .dropdown-menu {
@@ -66,6 +66,6 @@ body {
     text-decoration: none;
 }
 
-    .nireMenua > a:hover {
+.nireMenua > a:hover {
         color: #981212;
-    }
+}

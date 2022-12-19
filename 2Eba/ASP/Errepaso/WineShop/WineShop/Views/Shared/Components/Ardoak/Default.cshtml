@@ -1,31 +1,37 @@
 ﻿@model IEnumerable<WineShop.Models.ArdoaUpeltegi>
-<ul class="dropdown-menu">
-    @foreach (var item in Model)
-    {
-        <li><a href="#">@Html.DisplayFor(modelItem => item.UpeltegiIzena)</a></li>
-    }
-</ul>
+
 <ul class="dropdown-menu">
     <li>
         <div class="container padinaMenu">
-            <div class="col-md-4 nireMenua">
-                <h4 class="borgona">Aukeratu upeltegia:</h4>
-                @{
-                    var izena = "";
-                    foreach (var item in Model)
-                    {
-                        if (item.UpeltegiIzena != izena)
+            <div class="row">
+                <div class="col-md-4 nireMenua">
+                    <h4 class="borgona">Aukeratu upeltegia:</h4>
+                    @{
+                        var izena = "";
+                        foreach (var item in Model)
                         {
-                            <a href="#">@Html.DisplayFor(modelItem => item.UpeltegiIzena)</a>
+                            if (item.UpeltegiIzena != izena)
+                            {
+                                <a href="#">@Html.DisplayFor(modelItem => item.UpeltegiIzena)</a>
 
-                            <br />
-                            izena = item.UpeltegiIzena;
+                                <br />
+                                izena = item.UpeltegiIzena;
+                            }
                         }
                     }
-                }
-            </div>
-            <div class="col-md-8">
-                <img class="img-responsive" src="~/images/wine-white.jpg" />
+                </div>
+                <div class="col-md-8">
+                    @{
+                        if (ViewBag.mota == 1)
+                        {
+                            <img class="img-fluid" src="~/images/wine-white.jpg" />
+                        }
+                        else
+                        {
+                            <img class="img-fluid" src="~/images/wine-red.jpg" />
+                        }
+                    }
+                </div>
             </div>
         </div>
     </li>

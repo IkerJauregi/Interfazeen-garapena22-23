@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WineShop.Services;
 
-namespace WineShop.ViewComponents
+namespace Wineshop.ViewComponents
 {
     public class ArdoakViewComponent : ViewComponent
     {
